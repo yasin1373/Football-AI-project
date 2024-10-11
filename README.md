@@ -1,9 +1,5 @@
-# Football-AI-project
-Here’s an updated version of the README explanation, including the heatmap visualization feature:
 
----
-
-# **Football Player Analysis using Computer Vision**
+# **Football Players Analysis using Computer Vision**
 
 ## **Project Overview**
 This project leverages computer vision to deliver detailed football match analysis. The primary objectives are:
